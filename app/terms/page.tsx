@@ -11,7 +11,7 @@ export default function Terms() {
           <Link href="/" className="text-sm font-medium text-primary hover:underline">
             返回首页
           </Link>
-          <h1 className="text-lg font-semibold">使用条款</h1>
+          <h1 className="text-lg font-semibold">本站使用条款</h1>
           <div />
         </div>
       </header>
