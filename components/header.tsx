@@ -11,7 +11,7 @@ export function Header() {
         {/* Logo 和标题 */}
         <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
           <Gavel className="w-6 h-6 text-primary" />
-          <h1 className="text-lg font-semibold text-foreground">民事纠纷小白助手</h1>
+          <h1 className="text-lg font-semibold text-foreground">民事纠纷小助手</h1>
         </Link>
 
         {/* 导航链接和认证按钮 */}
